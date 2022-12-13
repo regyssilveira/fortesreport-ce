@@ -1,0 +1,60 @@
+// Package file for Delphi 2006
+
+package frxHTML10;
+
+{$I frx.inc}
+
+{$ALIGN ON}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $00400000}
+{$RUNONLY}
+{$IMPLICITBUILD OFF}
+
+requires
+  VCL,
+  frx10,
+  fs10;
+
+contains
+  { HTML }
+  frxWideStringsEarlyDelphi in 'frxWideStringsEarlyDelphi.pas',
+  frxHTMLRead in 'frxHTMLRead.pas',
+  frxHTMLCaches in 'frxHTMLCaches.pas',
+  frxHTMLURLSubs in 'frxHTMLURLSubs.pas',
+  frxHTMLBuffConvArrays in 'frxHTMLBuffConvArrays.pas',
+  frxHTMLBuffConv in 'frxHTMLBuffConv.pas',
+  frxHTMLUn2 in 'frxHTMLUn2.pas',
+  frxHTML in 'frxHTML.pas',
+  frxHTMLEditor in 'frxHTMLEditor.pas',
+  frxHTMLRTTI in 'frxHTMLRTTI.pas',
+  frxHTMLViewer in 'frxHTMLViewer.pas',
+  frxHTMLSubs in 'frxHTMLSubs.pas',
+  frxHTMLStylePars in 'frxHTMLStylePars.pas',
+  frxHTMLStyleUn in 'frxHTMLStyleUn.pas',
+  frxHTMLFonts in 'frxHTMLFonts.pas',
+  frxHTMLSymb in 'frxHTMLSymb.pas',
+  frxHTMLImages in 'frxHTMLImages.pas',
+  frxHTMLStyleTypes in 'frxHTMLStyleTypes.pas',
+  frxHTMLBuffer in 'frxHTMLBuffer.pas',
+  frxHTMLGlobals in 'frxHTMLGlobals.pas',
+  frxHTMLViewInPlaceEditor in 'frxHTMLViewInPlaceEditor.pas';
+
+end.

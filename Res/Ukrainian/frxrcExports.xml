@@ -1,0 +1,316 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1251">
+  <StrRes Name="8000" Text="Експорт у Excel"/>
+  <StrRes Name="8001" Text="Стилі"/>
+  <StrRes Name="8002" Text="Картинки"/>
+  <StrRes Name="8003" Text="З'єднувати комірки"/>
+  <StrRes Name="8004" Text="Швидкий експорт"/>
+  <StrRes Name="8005" Text="WYSIWYG"/>
+  <StrRes Name="8006" Text="Як текст"/>
+  <StrRes Name="8007" Text="Тло"/>
+  <StrRes Name="8008" Text="Відкрити Excel після експорту"/>
+  <StrRes Name="8009" Text="Книга Excel (*.xls)|*.xls"/>
+  <StrRes Name="8010" Text=".xls"/>
+  <StrRes Name="8100" Text="Експорт у Excel"/>
+  <StrRes Name="8101" Text="Стилі"/>
+  <StrRes Name="8102" Text="WYSIWYG"/>
+  <StrRes Name="8103" Text="Тло"/>
+  <StrRes Name="8104" Text="Відкрити Excel після експорту"/>
+  <StrRes Name="8105" Text="Книга Excel (*.xls)|*.xls"/>
+  <StrRes Name="8106" Text=".xls"/>
+  <StrRes Name="8200" Text="Експорт у таблицю HTML"/>
+  <StrRes Name="8201" Text="Відкрити після експорту"/>
+  <StrRes Name="8202" Text="Стилі"/>
+  <StrRes Name="8203" Text="Картинки"/>
+  <StrRes Name="8204" Text="Все в одній папці"/>
+  <StrRes Name="8205" Text="Фіксована ширина"/>
+  <StrRes Name="8206" Text="Навігатор"/>
+  <StrRes Name="8207" Text="Багатосторінковий"/>
+  <StrRes Name="8208" Text="Браузер Mozilla"/>
+  <StrRes Name="8209" Text="Тло"/>
+  <StrRes Name="8210" Text="Файл HTML (*.html)|*.html"/>
+  <StrRes Name="8211" Text=".html"/>
+  <StrRes Name="8300" Text="Експорт у текст (матричний принтер)"/>
+  <StrRes Name="8301" Text="Перегляд результату"/>
+  <StrRes Name="8302" Text=" Параметри експорту  "/>
+  <StrRes Name="8303" Text="Розриви сторінок"/>
+  <StrRes Name="8304" Text="OEM-кодування"/>
+  <StrRes Name="8305" Text="Порожні рядки"/>
+  <StrRes Name="8306" Text="Пробіли ліворуч"/>
+  <StrRes Name="8307" Text="Номери"/>
+  <StrRes Name="8308" Text="Введіть номери й/або діапазони сторінок, розділені комами. Наприклад, 1,3,5-12"/>
+  <StrRes Name="8309" Text=" Масштабування "/>
+  <StrRes Name="8310" Text="по осі X"/>
+  <StrRes Name="8311" Text="по осі Y"/>
+  <StrRes Name="8312" Text=" Рамки "/>
+  <StrRes Name="8313" Text="Немає"/>
+  <StrRes Name="8314" Text="Текстові"/>
+  <StrRes Name="8315" Text="Графічні"/>
+  <StrRes Name="8316" Text="Тільки з сторінкою кодування OEM"/>
+  <StrRes Name="8317" Text="Друк після експорту"/>
+  <StrRes Name="8318" Text="Зберегти налаштування"/>
+  <StrRes Name="8319" Text=" Перегляд "/>
+  <StrRes Name="8320" Text="Ширина:"/>
+  <StrRes Name="8321" Text="Висота:"/>
+  <StrRes Name="8322" Text="Сторінка"/>
+  <StrRes Name="8323" Text="Збільшити"/>
+  <StrRes Name="8324" Text="Зменшити"/>
+  <StrRes Name="8325" Text="Текстовий файл (матричний принтер) (*.txt)|*.txt"/>
+  <StrRes Name="8326" Text=".txt"/>
+  <StrRes Name="8400" Text="Друк"/>
+  <StrRes Name="8401" Text="Принтер"/>
+  <StrRes Name="8402" Text="Ім'я"/>
+  <StrRes Name="8403" Text="Налаштування..."/>
+  <StrRes Name="8404" Text="Копії"/>
+  <StrRes Name="8405" Text="Кількість"/>
+  <StrRes Name="8406" Text=" Параметри"/>
+  <StrRes Name="8407" Text="Тип принтера"/>
+  <StrRes Name="8408" Text=".fpi"/>
+  <StrRes Name="8409" Text="Налаштування принтера (*.fpi)|*.fpi"/>
+  <StrRes Name="8410" Text=".fpi"/>
+  <StrRes Name="8411" Text="Налаштування принтера (*.fpi)|*.fpi"/>
+  <StrRes Name="8500" Text="Експорт у RTF (табличний)"/>
+  <StrRes Name="8501" Text="Картинки"/>
+  <StrRes Name="8502" Text="WYSIWYG"/>
+  <StrRes Name="8503" Text="Відкрити після експорту"/>
+  <StrRes Name="8504" Text="Документ RTF (*.rtf)|*.rtf"/>
+  <StrRes Name="8505" Text=".rtf"/>
+  <StrRes Name="8600" Text="Параметри експорту"/>
+  <StrRes Name="8601" Text=" Параметри зображення "/>
+  <StrRes Name="8602" Text="Якість JPEG"/>
+  <StrRes Name="8603" Text="Роздільна здатність (dpi)"/>
+  <StrRes Name="8604" Text="Окремі файли"/>
+  <StrRes Name="8605" Text="Обрізати сторінки"/>
+  <StrRes Name="8606" Text="Монохромний"/>
+  <StrRes Name="8700" Text="Експорт у PDF"/>
+  <StrRes Name="8701" Text="PDF/A"/>
+  <StrRes Name="8702" Text="Вмонтувати шрифти"/>
+  <StrRes Name="8703" Text="Висока якість"/>
+  <StrRes Name="8704" Text="Заголовок"/>
+  <StrRes Name="8705" Text="Тло"/>
+  <StrRes Name="8706" Text="Відкрити після експорту"/>
+  <StrRes Name="8707" Text="Файл Adobe PDF (*.pdf)|*.pdf"/>
+  <StrRes Name="8708" Text=".pdf"/>
+  <StrRes Name="8709" Text="Прозорість"/>
+  <StrRes Name="8710" Text="Стандарт PDF:"/>
+  <StrRes Name="8711" Text="Версія PDF:"/>
+  <StrRes Name="8712" Text="Стиснений"/>
+  <StrRes Name="8713" Text="Інтерактивні форми"/>
+  <StrRes Name="8714" Text="Використовувані гліфи"/>
+  <StrRes Name="8715" Text="Тут можна використовувати простий вираз.&#13;&#10; Приклад: &#38;#34;A-Z,a-z&#38;#34; або номери гліфів: &#38;#34;#40-#50,#200,#255&#38;#34;."/>
+  
+  <StrRes Name="RTFexport" Text="Документ RTF"/>
+  <StrRes Name="BMPexport" Text="Малюнок BMP"/>
+  <StrRes Name="JPEGexport" Text="Малюнок JPEG"/>
+  <StrRes Name="TIFFexport" Text="Малюнок TIFF"/>
+  <StrRes Name="PNGexport" Text="Малюнок PNG"/>
+  <StrRes Name="EMFexport" Text="Малюнок EMF"/>
+  <StrRes Name="TextExport" Text="Текстовий файл (матричний принтер)"/>
+  <StrRes Name="XlsOLEexport" Text="Книга Excel (OLE)"/>
+  <StrRes Name="HTMLexport" Text="Файл HTML"/>
+  <StrRes Name="XlsXMLexport" Text="Книга Excel (XML)"/>
+  <StrRes Name="PDFexport" Text="Документ PDF"/>
+  <StrRes Name="ProgressWait" Text="Зачекайте, будь ласка"/>
+  <StrRes Name="ProgressRows" Text="Налаштування рядків"/>
+  <StrRes Name="ProgressColumns" Text="Налаштування колонок"/>
+  <StrRes Name="ProgressStyles" Text="Налаштування стилів"/>
+  <StrRes Name="ProgressObjects" Text="Експорт об'єктів"/>
+  <StrRes Name="TIFFexportFilter" Text="Малюнок TIFF (*.tif)|*.tif"/>
+  <StrRes Name="BMPexportFilter" Text="Малюнок BMP (*.bmp)|*.bmp"/>
+  <StrRes Name="JPEGexportFilter" Text="Малюнок JPEG (*.jpg)|*.jpg"/>
+  <StrRes Name="PNGexportFilter" Text="PNG image (*.png)|*.png"/>
+  <StrRes Name="EMFexportFilter" Text="EMF image (*.emf)|*.emf"/>
+  <StrRes Name="HTMLNavFirst" Text="Початок"/>
+  <StrRes Name="HTMLNavPrev" Text="Попер."/>
+  <StrRes Name="HTMLNavNext" Text="Наст."/>
+  <StrRes Name="HTMLNavLast" Text="Кінець"/>
+  <StrRes Name="HTMLNavRefresh" Text="Оновити"/>
+  <StrRes Name="HTMLNavPrint" Text="Друк"/>
+  <StrRes Name="HTMLNavTotal" Text="Всього сторінок"/>
+  <StrRes Name="8800" Text="Експорт у текст"/>
+  <StrRes Name="8801" Text="Текстовий файл (*.txt)|*.txt"/>
+  <StrRes Name="8802" Text=".txt"/>
+  <StrRes Name="SimpleTextExport" Text="Текстовий файл"/>
+  <StrRes Name="8850" Text="Експорт у CSV"/>
+  <StrRes Name="8851" Text="Файл CSV (*.csv)|*.csv"/>
+  <StrRes Name="8852" Text=".csv"/>
+  <StrRes Name="8853" Text="Роздільник"/>
+  <StrRes Name="CSVExport" Text="Файл CSV"/>
+  <StrRes Name="8900" Text="Відправити на E-mail"/>
+  <StrRes Name="8901" Text="E-mail"/>
+  <StrRes Name="8902" Text="Скринька"/>
+  <StrRes Name="8903" Text="З'єднання"/>
+  <StrRes Name="8904" Text="Адреса"/>
+  <StrRes Name="8905" Text="Вкладення"/>
+  <StrRes Name="8906" Text="Формат"/>
+  <StrRes Name="8907" Text="З адреси"/>
+  <StrRes Name="8908" Text="Від кого"/>
+  <StrRes Name="8909" Text="Сервер"/>
+  <StrRes Name="8910" Text="Логін"/>
+  <StrRes Name="8911" Text="Лист"/>
+  <StrRes Name="8912" Text="Повідомлення"/>
+  <StrRes Name="8913" Text="Текст"/>
+  <StrRes Name="8914" Text="Організація"/>
+  <StrRes Name="8915" Text="Пароль"/>
+  <StrRes Name="8916" Text="Порт"/>
+  <StrRes Name="8917" Text="Пам'ятати властивості"/>
+  <StrRes Name="8918" Text="Обов'язкові поля порожні"/>
+  <StrRes Name="8919" Text="Розширені налаштування експорту"/>
+  <StrRes Name="8920" Text="Підпис"/>
+  <StrRes Name="8921" Text="Складання"/>
+  <StrRes Name="8922" Text="Тема"/>
+  <StrRes Name="8923" Text="З повагою,"/>
+  <StrRes Name="8924" Text="Відправлення листа до"/>
+  <StrRes Name="8925" Text="Тип транспорту:"/>
+  <StrRes Name="8926" Text="Тайм-аут"/>
+  <StrRes Name="EmailExport" Text="E-mail"/>
+  <StrRes Name="FastReportFile" Text="Файл FastReport"/>
+  <StrRes Name="GifexportFilter" Text="Файл GIF (*.gif)|*.gif"/>
+  <StrRes Name="GIFexport" Text="Малюнок GIF"/>
+  <StrRes Name="8950" Text="Нерозривний"/>
+  <StrRes Name="8951" Text="Колонтитули"/>
+  <StrRes Name="8952" Text="Текст"/>
+  <StrRes Name="8953" Text="Колонтитули"/>
+  <StrRes Name="8954" Text="Немає"/>
+  <StrRes Name="ODSExportFilter" Text="Файл Open Document Spreadsheet (*.ods)|*.ods"/>
+  <StrRes Name="ODSExport" Text="Open Document Spreadsheet"/>
+  <StrRes Name="ODTExportFilter" Text="Файл Open Document Text (*.odt)|*.odt"/>
+  <StrRes Name="ODTExport" Text="Open Document Text"/>
+  <StrRes Name="8960" Text=".ods"/>
+  <StrRes Name="8961" Text=".odt"/>
+  <StrRes Name="8962" Text="Безпека"/>
+  <StrRes Name="8963" Text="Налаштування безпеки"/>
+  <StrRes Name="8964" Text="Пароль власника"/>
+  <StrRes Name="8965" Text="Пароль користувача"/>
+  <StrRes Name="8966" Text="Друк документу"/>
+  <StrRes Name="8967" Text="Модифікування документу"/>
+  <StrRes Name="8968" Text="Копіювання тексту та графіки"/>
+  <StrRes Name="8969" Text="Додавання та зміна текстових анотацій"/>
+  <StrRes Name="8970" Text="Безпека PDF"/>
+  <StrRes Name="8971" Text="Інформація про документ"/>
+  <StrRes Name="8972" Text="Інформація"/>
+  <StrRes Name="8973" Text="Найменування"/>
+  <StrRes Name="8974" Text="Автор"/>
+  <StrRes Name="8975" Text="Тема"/>
+  <StrRes Name="8976" Text="Ключові слова"/>
+  <StrRes Name="8977" Text="Творець"/>
+  <StrRes Name="8978" Text="Виробник"/>
+  <StrRes Name="8979" Text="Автентифікація"/>
+  <StrRes Name="8980" Text="Дозволи"/>
+  <StrRes Name="8981" Text="Переглядач"/>
+  <StrRes Name="8982" Text="Уподобання переглядача"/>
+  <StrRes Name="8983" Text="Приховувати панель інструментів"/>
+  <StrRes Name="8984" Text="Приховувати рядок меню"/>
+  <StrRes Name="8985" Text="Приховувати користувацький інтерфейс вікна"/>
+  <StrRes Name="8986" Text="Розтягнути вікно"/>
+  <StrRes Name="8987" Text="Центрувати вікно"/>
+  <StrRes Name="8988" Text="Масштабування друку"/>
+  <StrRes Name="8989" Text="Пiдтвердження прочитання"/>
+  <StrRes Name="9000" Text="Кількість рядків:"/>
+  <StrRes Name="9001" Text="Розбити на аркуші"/>
+  <StrRes Name="9002" Text="Не розбивати"/>
+  <StrRes Name="9003" Text="Використовувати сторінки звіту"/>
+  <StrRes Name="9004" Text="Використовувати друк на рожденику"/>
+
+  <StrRes Name="9101" Text="Експорт у DBF"/>
+  <StrRes Name="9102" Text="Експорт dBase (DBF)"/>
+  <StrRes Name="9103" Text=".dbf"/>
+  <StrRes Name="9104" Text="Не вдалося завантажити файл"/>
+  <StrRes Name="9105" Text="Відмова"/>
+  <StrRes Name="9106" Text="Імена полів"/>
+  <StrRes Name="9107" Text="Автоматично"/>
+  <StrRes Name="9108" Text="Вручну"/>
+  <StrRes Name="9109" Text="Завантажити з файлу"/>
+  <StrRes Name="9110" Text="Текстові файли (*.txt)|*.txt|Всі файли|*.*"/>
+  <StrRes Name="9111" Text="Файли DBF (*.dbf)|*.dbf|Всі файли|*.*"/>
+
+  <StrRes Name="9151" Text="Файл Excel 97/2000/XP"/>
+  <StrRes Name="9152" Text="Автоматичне створення файлу"/>
+  <StrRes Name="9153" Text="Опції"/>
+  <StrRes Name="9154" Text="Сторінка"/>
+  <StrRes Name="9155" Text="Лінії сітки"/>
+  <StrRes Name="9156" Text="Все на одній сторінці"/>
+  <StrRes Name="9157" Text="Групування даних"/>
+  <StrRes Name="9158" Text="Як у звіті"/>
+  <StrRes Name="9159" Text="Блоки. У кожному блоці (рядків):"/>
+  <StrRes Name="9160" Text="Розмір блоку повинен бути натуральним числом."/>
+  <StrRes Name="9161" Text="SingleSheet має бути False під час експорту блоками"/>
+  <StrRes Name="9162" Text="Автор"/>
+  <StrRes Name="9163" Text="Коментар"/>
+  <StrRes Name="9164" Text="Ключові слова"/>
+  <StrRes Name="9165" Text="Ревізія"/>
+  <StrRes Name="9166" Text="Версія"/>
+  <StrRes Name="9167" Text="Застосунок"/>
+  <StrRes Name="9168" Text="Тема"/>
+  <StrRes Name="9169" Text="Категорія"/>
+  <StrRes Name="9170" Text="Компанія"/>
+  <StrRes Name="9171" Text="Найменування"/>
+  <StrRes Name="9172" Text="Менеджер"/>
+  <StrRes Name="9173" Text="Загальне"/>
+  <StrRes Name="9174" Text="Інформація"/>
+  <StrRes Name="9175" Text="Захист"/>
+  <StrRes Name="9176" Text="Пароль"/>
+  <StrRes Name="9177" Text="Якщо ви встановили непорожній пароль, то згенерований документ буде захищений цим паролем. Пароль завжди записується символами Юнікоду та повинен бути коротшим за 256 юнікодних символів."/>
+  <StrRes Name="9178" Text="Підтвердження"/>
+  <StrRes Name="9179" Text="Підтвердження пароля не відповідає паролю. Введіть пароль знову."/>
+  <StrRes Name="9180" Text="Спроба встановити пароль завдовжки %d символів. Максимальна дозволена довжина пароля дорівнює %d символів."/>
+  <StrRes Name="9181" Text="Підібрати розмір сторінки"/>
+  <StrRes Name="9182" Text="Експорт у Excel 97/2000/XP"/>
+  <StrRes Name="9183" Text="Вилучати порожні рядки"/>
+  <StrRes Name="9184" Text="Експортувати формули"/>
+  <StrRes Name="9185" Text="Тільки дані"/>
+
+  <StrRes Name="BiffCol" Text="Змінювати розмір колонок"/>
+  <StrRes Name="BiffRow" Text="Змінювати розмір рядків"/>
+  <StrRes Name="BiffCell" Text="Експорт комірок"/>
+  <StrRes Name="BiffImg" Text="Експорт картинок"/>
+
+  <StrRes Name="9200" Text="Microsoft Excel 2007 XML"/>
+  <StrRes Name="9201" Text="Microsoft PowerPoint 2007 XML"/>
+  <StrRes Name="9203" Text="Microsoft Word 2007 XML"/>
+  <StrRes Name="9204" Text="Файли Microsoft Excel 2007 XML (*.xlsx)|*.xlsx"/>
+  <StrRes Name="9205" Text="Файли Microsoft PowerPoint 2007 XML (*.pptx)|*.pptx"/>
+  <StrRes Name="9206" Text="Файли Microsoft Word 2007 XML (*.docx)|*.docx"/>
+
+  <StrRes Name="9300" Text="Розмічений HTML"/>
+  <StrRes Name="9301" Text="Файли HTML (*.html)|*.html|Всі файли|*.*"/>
+  <StrRes Name="9302" Text="Розмічений експорт HTML"/>
+  <StrRes Name="9303" Text="Розмічений HTML5"/>
+  <StrRes Name="9304" Text="Розмічений HTML4"/>
+  <StrRes Name="9305" Text="Експорт у розмічений HTML"/>
+
+  <StrRes Name="9400" Text="Перевпорядкування компонентів"/>
+  <StrRes Name="9401" Text="Рендеринг компонентів"/>
+  <StrRes Name="9402" Text="Adjusting intersecting components"/>
+  <StrRes Name="9403" Text="Вилучення порожніх рядків"/>
+  <StrRes Name="9404" Text="Adjusting frames"/>
+  <StrRes Name="9405" Text="Розбиття великих комірок"/>
+  <StrRes Name="9406" Text="Composing BIFF file"/>
+
+  <StrRes Name="xProto" Text="Експорт прототипу"/>
+  <StrRes Name="xBlank" Text="Blank Export"/>
+  <StrRes Name="expMailAddr" Text="Адреса чи адреси через кому"/>
+
+  <StrRes Name="9500" Text="Експорт у SVG"/>
+  <StrRes Name="9512" Text="Уніфіковані картинки"/>
+  <StrRes Name="9513" Text="Форматований"/>
+  
+  <StrRes Name="9520" Text="Експорт у ZPL"/>
+  <StrRes Name="9521" Text="Друкувати як бітову карту"/>
+  <StrRes Name="9522" Text="Break lines"/>
+  <StrRes Name="9523" Text="Файл ZPL..."/>
+  
+  <StrRes Name="9530" Text="Експорт у PS"/>
+  <StrRes Name="9531" Text="Has Multiple Files"/>
+  <StrRes Name="9532" Text="Включати зображення"/>
+  <StrRes Name="9540" Text="Експорт у PPML"/>
+
+  <StrRes Name="HTMLExtension" Text=".html"/>
+
+  <StrRes Name="SVGDescription" Text="Файл SVG"/>
+  <StrRes Name="SVGFilter"      Text="Файл SVG (*.svg)|*.svg"/>
+  <StrRes Name="SVGExtension"   Text=".svg"/>
+  <StrRes Name="PPMLexport"   Text="Експорт PPML ..."/>
+  <StrRes Name="PSexport"   Text="Експорт PS ..."/>
+
+</Resources>

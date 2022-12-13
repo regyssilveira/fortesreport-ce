@@ -1,0 +1,289 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1255">
+  <StrRes Name="8000" Text="יצוא ל Excel"/>
+  <StrRes Name="8001" Text="סגנונות"/>
+  <StrRes Name="8002" Text="תמונות"/>
+  <StrRes Name="8003" Text="מיזוג תאים"/>
+  <StrRes Name="8004" Text="יצוא מהיר"/>
+  <StrRes Name="8005" Text="WYSIWYG"/>
+  <StrRes Name="8006" Text="כטקסט"/>
+  <StrRes Name="8007" Text="רקע"/>
+  <StrRes Name="8008" Text="פתח את Excel לאחר יצוא"/>
+  <StrRes Name="8009" Text="קובץ Excel (*.xls)|*.xls"/>
+  <StrRes Name="8010" Text=".xls"/>
+  <StrRes Name="8100" Text="יצוא ל Excel"/>
+  <StrRes Name="8101" Text="סגנונות"/>
+  <StrRes Name="8102" Text="WYSIWYG"/>
+  <StrRes Name="8103" Text="רקע"/>
+  <StrRes Name="8104" Text="פתח את Excel לאחר יצוא"/>
+  <StrRes Name="8105" Text="קובץ XML Excel (*.xls)|*.xls"/>
+  <StrRes Name="8106" Text=".xls"/>
+  <StrRes Name="8200" Text="יצוא לטבלת HTML"/>
+  <StrRes Name="8201" Text="פתח לאחר יצוא"/>
+  <StrRes Name="8202" Text="סגנונות"/>
+  <StrRes Name="8203" Text="תמונות"/>
+  <StrRes Name="8204" Text="הכל בתיקיה אחת"/>
+  <StrRes Name="8205" Text="רוחב קבוע"/>
+  <StrRes Name="8206" Text="ניווט בין עמודים"/>
+  <StrRes Name="8207" Text="ריבוי עמודים"/>
+  <StrRes Name="8208" Text="דפדפן Mozilla"/>
+  <StrRes Name="8209" Text="רקע"/>
+  <StrRes Name="8210" Text="קובץ HTML (*.html)|*.html"/>
+  <StrRes Name="8211" Text=".html"/>
+  <StrRes Name="8300" Text="יצוא לטקסט (מדפסת סיכות)"/>
+  <StrRes Name="8301" Text="תצוגה מקדימה כן/לא"/>
+  <StrRes Name="8302" Text=" מאפייני יצוא "/>
+  <StrRes Name="8303" Text="שבירת עמודים"/>
+  <StrRes Name="8304" Text="OEM codepage"/>
+  <StrRes Name="8305" Text="שורות ריקות"/>
+  <StrRes Name="8306" Text="רווחים מובילים"/>
+  <StrRes Name="8307" Text="מספרי עמודים"/>
+  <StrRes Name="8308" Text="מספרי עמודים ו/או טווחי עמודים, מופרדים באמצעות פסיקים. לדוגמא: 1,3,5-12"/>
+  <StrRes Name="8309" Text=" התאמת גודל "/>
+  <StrRes Name="8310" Text="רוחב"/>
+  <StrRes Name="8311" Text="גובה"/>
+  <StrRes Name="8312" Text=" מסגרות "/>
+  <StrRes Name="8313" Text="ללא"/>
+  <StrRes Name="8314" Text="פשוט"/>
+  <StrRes Name="8315" Text="גרפי"/>
+  <StrRes Name="8316" Text="רק עם OEM codepage"/>
+  <StrRes Name="8317" Text="הדפסה לאחר יצוא"/>
+  <StrRes Name="8318" Text="שמירת הגדרות"/>
+  <StrRes Name="8319" Text=" תצוגה מקדימה "/>
+  <StrRes Name="8320" Text="רוחב:"/>
+  <StrRes Name="8321" Text="גובה:"/>
+  <StrRes Name="8322" Text="עמוד"/>
+  <StrRes Name="8323" Text="זום פנימה"/>
+  <StrRes Name="8324" Text="זום החוצה"/>
+  <StrRes Name="8325" Text="קובץ טקסט (מדפסת סיכות)(*.prn)|*.prn"/>
+  <StrRes Name="8326" Text=".prn"/>
+  <StrRes Name="8400" Text="הדפסה"/>
+  <StrRes Name="8401" Text="מדפסת"/>
+  <StrRes Name="8402" Text="שם"/>
+  <StrRes Name="8403" Text="הגדרות..."/>
+  <StrRes Name="8404" Text="עותקים"/>
+  <StrRes Name="8405" Text="מספר עותקים"/>
+  <StrRes Name="8406" Text=" הגדרות אתחול מדפסת "/>
+  <StrRes Name="8407" Text="סוג מדפסת"/>
+  <StrRes Name="8408" Text=".fpi"/>
+  <StrRes Name="8409" Text="תבנית איתחול מדפסת (*.fpi)|*.fpi"/>
+  <StrRes Name="8410" Text=".fpi"/>
+  <StrRes Name="8411" Text="תבנית איתחול מדפסת (*.fpi)|*.fpi"/>
+  <StrRes Name="8500" Text="יצוא ל-RTF"/>
+  <StrRes Name="8501" Text="תמונות"/>
+  <StrRes Name="8502" Text="WYSIWYG"/>
+  <StrRes Name="8503" Text="פתיחה לאחר היצוא"/>
+  <StrRes Name="8504" Text="קובץ RTF (*.rtf)|*.rtf"/>
+  <StrRes Name="8505" Text=".rtf"/>
+  <StrRes Name="8600" Text="מאפייני יצוא"/>
+  <StrRes Name="8601" Text=" הגדרות תמונה "/>
+  <StrRes Name="8602" Text="איכות JPEG"/>
+  <StrRes Name="8603" Text="רזולוציה (dpi)"/>
+  <StrRes Name="8604" Text="כל עמוד בקובץ נפרד"/>
+  <StrRes Name="8605" Text="חיתוך עמודים"/>
+  <StrRes Name="8606" Text="שחור-לבן"/>
+  <StrRes Name="8700" Text="יצוא ל-PDF"/>
+  <StrRes Name="8701" Text="PDF/A"/>
+  <StrRes Name="8702" Text="הטמעת גופנים"/>
+  <StrRes Name="8703" Text="הדפסה אופטימלית"/>
+  <StrRes Name="8704" Text="סרגל צד"/>
+  <StrRes Name="8705" Text="רקע"/>
+  <StrRes Name="8706" Text="פתיחה לאחר היצוא"/>
+  <StrRes Name="8707" Text="קובץ PDF (*.pdf)|*.pdf"/>
+  <StrRes Name="8708" Text=".pdf"/>
+  <StrRes Name="8709" Text="שקיפות"/>
+  <StrRes Name="8710" Text="תקן PDF:"/>
+  <StrRes Name="8711" Text="גרסת PDF:"/>
+  <StrRes Name="8712" Text="דחוס"/>
+  <StrRes Name="RTFexport" Text="קובץ RTF"/>
+  <StrRes Name="BMPexport" Text="תמונת BMP"/>
+  <StrRes Name="JPEGexport" Text="תמונת JPEG"/>
+  <StrRes Name="TIFFexport" Text="תמונת TIFF"/>
+  <StrRes Name="PNGexport" Text="תמונת PNG"/>
+  <StrRes Name="EMFexport" Text="תמונת EMF"/>
+  <StrRes Name="TextExport" Text="טקסט (מדפסת סיכות)"/>
+  <StrRes Name="XlsOLEexport" Text="Microsoft Excel OLE"/>
+  <StrRes Name="HTMLexport" Text="קובץ HTML"/>
+  <StrRes Name="XlsXMLexport" Text="Microsoft Excel 2007 XML"/>
+  <StrRes Name="PDFexport" Text="קובץ PDF"/>
+  <StrRes Name="ProgressWait" Text="נא להמתין"/>
+  <StrRes Name="ProgressRows" Text="הגדרת שורות"/>
+  <StrRes Name="ProgressColumns" Text="הגדרת טורים"/>
+  <StrRes Name="ProgressStyles" Text="הגדרת סגנונות"/>
+  <StrRes Name="ProgressObjects" Text="יצוא אובייקטים"/>
+  <StrRes Name="TIFFexportFilter" Text="תמונת Tiff (*.tif)|*.tif"/>
+  <StrRes Name="BMPexportFilter" Text="תמונת BMP (*.bmp)|*.bmp"/>
+  <StrRes Name="JPEGexportFilter" Text="תמונת Jpeg (*.jpg)|*.jpg"/>
+  <StrRes Name="PNGexportFilter" Text="תמונת PNG (*.png)|*.png"/>
+  <StrRes Name="EMFexportFilter" Text="תמונת EMF (*.emf)|*.emf"/>
+  <StrRes Name="HTMLNavFirst" Text="הראשון"/>
+  <StrRes Name="HTMLNavPrev" Text="הקודם"/>
+  <StrRes Name="HTMLNavNext" Text="הבא"/>
+  <StrRes Name="HTMLNavLast" Text="האחרון"/>
+  <StrRes Name="HTMLNavRefresh" Text="רענון"/>
+  <StrRes Name="HTMLNavPrint" Text="הדפסה"/>
+  <StrRes Name="HTMLNavTotal" Text="סה&quot;כ עמודים"/>
+  <StrRes Name="8800" Text="יצוא לטקסט"/>
+  <StrRes Name="8801" Text="קובץ טקסט (*.txt)|*.txt"/>
+  <StrRes Name="8802" Text=".txt"/>
+  <StrRes Name="SimpleTextExport" Text="קובץ טקסט"/>
+  <StrRes Name="8850" Text="יצוא לקובץ מופרד פסיקים (CSV)"/>
+  <StrRes Name="8851" Text="קובץ מופרד פסיקים (CSV) (*.csv)|*.csv"/>
+  <StrRes Name="8852" Text=".csv"/>
+  <StrRes Name="8853" Text="תו מפריד"/>
+  <StrRes Name="CSVExport" Text="קובץ CSV"/>
+  <StrRes Name="8900" Text="שלח בדוא&quot;ל"/>
+  <StrRes Name="8901" Text="דוא&quot;ל"/>
+  <StrRes Name="8902" Text="חשבון"/>
+  <StrRes Name="8903" Text="חיבור"/>
+  <StrRes Name="8904" Text="הנמען/ת"/>
+  <StrRes Name="8905" Text="קובץ מצורף"/>
+  <StrRes Name="8906" Text="מבנה"/>
+  <StrRes Name="8907" Text="כתובת השולח/ת"/>
+  <StrRes Name="8908" Text="שם השולח/ת"/>
+  <StrRes Name="8909" Text="שרת"/>
+  <StrRes Name="8910" Text="מזהה"/>
+  <StrRes Name="8911" Text="דוא&quot;ל"/>
+  <StrRes Name="8912" Text="הודעה"/>
+  <StrRes Name="8913" Text="טקסט"/>
+  <StrRes Name="8914" Text="ארגון"/>
+  <StrRes Name="8915" Text="סיסמא"/>
+  <StrRes Name="8916" Text="שער (Port)"/>
+  <StrRes Name="8917" Text="שמירת מאפיינים"/>
+  <StrRes Name="8918" Text="שדות נחוצים ריקים"/>
+  <StrRes Name="8919" Text="מאפייני יצוא מתקדמים"/>
+  <StrRes Name="8920" Text="חתימה"/>
+  <StrRes Name="8921" Text="הוספה"/>
+  <StrRes Name="8922" Text="נושא"/>
+  <StrRes Name="8923" Text="בברכה"/>
+  <StrRes Name="8924" Text="שלח דואר אל"/>
+  <StrRes Name="8925" Text="שליחה דרך:"/>
+  <StrRes Name="8926" Text="Time-out"/>
+  <StrRes Name="EmailExport" Text="דוא&quot;ל"/>
+  <StrRes Name="FastReportFile" Text="קובץ FastReport"/>
+  <StrRes Name="GifexportFilter" Text="תמונת Gif (*.gif)|*.gif"/>
+  <StrRes Name="GIFexport" Text="תמונת Gif"/>
+  <StrRes Name="8950" Text="רציף"/>
+  <StrRes Name="8951" Text="כותרת/תחתית עמוד"/>
+  <StrRes Name="8952" Text="טקסט"/>
+  <StrRes Name="8953" Text="כותרת/תחתית"/>
+  <StrRes Name="8954" Text="ללא"/>
+  <StrRes Name="ODSExportFilter" Text="קובץ Open Document Spreadsheet (*.ods)|*.ods"/>
+  <StrRes Name="ODSExport" Text="Open Document Spreadsheet"/>
+  <StrRes Name="ODTExportFilter" Text="קובץ Open Document Text (*.odt)|*.odt"/>
+  <StrRes Name="ODTExport" Text="Open Document Text"/>
+  <StrRes Name="8960" Text=".ods"/>
+  <StrRes Name="8961" Text=".odt"/>
+  <StrRes Name="8962" Text="אבטחה"/>
+  <StrRes Name="8963" Text="הגדרות אבטחה"/>
+  <StrRes Name="8964" Text="סיסמת עריכה"/>
+  <StrRes Name="8965" Text="סיסמת צפיה"/>
+  <StrRes Name="8966" Text="הדפסת המסמך"/>
+  <StrRes Name="8967" Text="שינוי המסמך"/>
+  <StrRes Name="8968" Text="עותק של טקסט וגרפיקה"/>
+  <StrRes Name="8969" Text="הוספה או עריכה של הערות"/>
+  <StrRes Name="8970" Text="אבטחת PDF"/>
+  <StrRes Name="8971" Text="מידע על המסמך"/>
+  <StrRes Name="8972" Text="מידע"/>
+  <StrRes Name="8973" Text="כותרת"/>
+  <StrRes Name="8974" Text="מחבר/ת"/>
+  <StrRes Name="8975" Text="נושא"/>
+  <StrRes Name="8976" Text="מילות מפתח"/>
+  <StrRes Name="8977" Text="יוצר/ת"/>
+  <StrRes Name="8978" Text="מפיק/ה"/>
+  <StrRes Name="8979" Text="אימות"/>
+  <StrRes Name="8980" Text="הרשאות"/>
+  <StrRes Name="8981" Text="צפייה"/>
+  <StrRes Name="8982" Text="העדפות צפייה"/>
+  <StrRes Name="8983" Text="הסתרת סרגל"/>
+  <StrRes Name="8984" Text="הסתרת תפריט"/>
+  <StrRes Name="8985" Text="הסתרת מסגרת חלון"/>
+  <StrRes Name="8986" Text="התאמה לחלון"/>
+  <StrRes Name="8987" Text="מירכוז בחלון"/>
+  <StrRes Name="8988" Text="התאמת גודל הדפסה"/>
+  <StrRes Name="8989" Text="אישור קריאה"/>
+  <StrRes Name="9000" Text="מספר שורות:"/>
+  <StrRes Name="9001" Text="פיצול לעמוד"/>
+  <StrRes Name="9002" Text="ללא פיצול"/>
+  <StrRes Name="9003" Text="שימוש בעמודי הדוח"/>
+  <StrRes Name="9004" Text="שימוש בהדפסת דוח האב"/>
+  <StrRes Name="9101" Text="יצוא ל-dBase DBF"/>
+  <StrRes Name="9102" Text="יצוא ל-dBase DBF"/>
+  <StrRes Name="9103" Text=".dbf"/>
+  <StrRes Name="9104" Text="טעינת הקובץ נכשלה"/>
+  <StrRes Name="9105" Text="תקלה"/>
+  <StrRes Name="9106" Text="שמות שדות"/>
+  <StrRes Name="9107" Text="אוטומטית"/>
+  <StrRes Name="9108" Text="ידנית"/>
+  <StrRes Name="9109" Text="טעינה מקובץ"/>
+  <StrRes Name="9110" Text="קבצי טקסט (*.txt)|*.txt|All files|*.*"/>
+  <StrRes Name="9111" Text="קבצי DBF (*.dbf)|*.dbf|All files|*.*"/>
+  <StrRes Name="9151" Text="Microsoft Excel 97/2000/XP"/>
+  <StrRes Name="9152" Text="יצירת קובץ אוטומטית"/>
+  <StrRes Name="9153" Text="אפשרויות"/>
+  <StrRes Name="9154" Text="עמוד"/>
+  <StrRes Name="9155" Text="קווי רשת"/>
+  <StrRes Name="9156" Text="הכל בעמוד אחד"/>
+  <StrRes Name="9157" Text="סידור בקבוצות"/>
+  <StrRes Name="9158" Text="כמו בדוח"/>
+  <StrRes Name="9159" Text="מקטעים. מספר שורות במקטע:"/>
+  <StrRes Name="9160" Text="גודל המקטע צריך להיות מספר חיובי שלם."/>
+  <StrRes Name="9161" Text="ביצוא מקטעים אין אפשרות לבחור 'הכל בעמוד אחד'"/>
+  <StrRes Name="9162" Text="מחבר/ת"/>
+  <StrRes Name="9163" Text="הערה"/>
+  <StrRes Name="9164" Text="מילות מפתח"/>
+  <StrRes Name="9165" Text="מהדורה"/>
+  <StrRes Name="9166" Text="גרסה"/>
+  <StrRes Name="9167" Text="יישום"/>
+  <StrRes Name="9168" Text="נושא"/>
+  <StrRes Name="9169" Text="קטגוריה"/>
+  <StrRes Name="9170" Text="חברה"/>
+  <StrRes Name="9171" Text="כותרת"/>
+  <StrRes Name="9172" Text="מנהל"/>
+  <StrRes Name="9173" Text="כללי"/>
+  <StrRes Name="9174" Text="מידע"/>
+  <StrRes Name="9175" Text="הגנה"/>
+  <StrRes Name="9176" Text="סיסמה"/>
+  <StrRes Name="9177" Text="אם הקלדת סיסמה, המסמך יהיה מוגן באמצעות סיסמה זו. הסיסמה נשמרת בקידוד Unicode ועליה להיות קצרה מ-256 תוים."/>
+  <StrRes Name="9178" Text="אישור"/>
+  <StrRes Name="9179" Text="אישור הסיסמה לא תואם לסיסמה הראשונה. יש להקליד שוב."/>
+  <StrRes Name="9180" Text="ניסית להקליד סיסמה באורך %d תוים. מספר התוים המירבי המותר הוא %d."/>
+  <StrRes Name="9181" Text="התאמת גודל העמוד"/>
+  <StrRes Name="9182" Text="יצוא ל-Excel 97/2000/XP"/>
+  <StrRes Name="9183" Text="מחיקת שורות ריקות"/>
+  <StrRes Name="9184" Text="יצוא נוסחאות"/>
+  <StrRes Name="9185" Text="נתונים בלבד"/>
+  <StrRes Name="BiffCol" Text="חישוב רוחב עמודות"/>
+  <StrRes Name="BiffRow" Text="חישוב גובה שורות"/>
+  <StrRes Name="BiffCell" Text="יצוא תאים"/>
+  <StrRes Name="BiffImg" Text="יצוא תמונות"/>
+  <StrRes Name="9200" Text="Microsoft Excel 2007 XML"/>
+  <StrRes Name="9201" Text="Microsoft PowerPoint 2007 XML"/>
+  <StrRes Name="9203" Text="Microsoft Word 2007 XML"/>
+  <StrRes Name="9204" Text="Microsoft Excel 2007 XML (*.xlsx)|*.xlsx"/>
+  <StrRes Name="9205" Text="Microsoft PowerPoint 2007 XML (*.pptx)|*.pptx"/>
+  <StrRes Name="9206" Text="Microsoft Word 2007 XML (*.docx)|*.docx"/>
+  <StrRes Name="9300" Text="HTML Layered"/>
+  <StrRes Name="9301" Text="קבצי HTML (*.html)|*.html|All files|*.*"/>
+  <StrRes Name="9302" Text="HTML Layered Export"/>
+  <StrRes Name="9303" Text="HTML5 Layered"/>
+  <StrRes Name="9304" Text="HTML4 Layered"/>
+  <StrRes Name="9305" Text="יצוא ל-HTML Layered"/>
+  <StrRes Name="9400" Text="עדכון סדר רכיבים"/>
+  <StrRes Name="9401" Text="יצירת הרכיבים"/>
+  <StrRes Name="9402" Text="התאמת רכיבים חוצים"/>
+  <StrRes Name="9403" Text="מחיקת שורות ריקות"/>
+  <StrRes Name="9404" Text="התאמת מסגרות"/>
+  <StrRes Name="9405" Text="פיצול תאים גדולים"/>
+  <StrRes Name="9406" Text="יצירת קובץ BIFF"/>
+  <StrRes Name="xProto" Text="יצוא אבטיפוס"/>
+  <StrRes Name="xBlank" Text="יצוא ריק"/>
+  <StrRes Name="expMailAddr" Text="כתובת או כתובות מופרדות בפסיק"/>
+  <StrRes Name="9500" Text="יצוא ל-SVG"/>
+  <StrRes Name="9512" Text="תמונות מאוחדות"/>
+  <StrRes Name="9513" Text="מסודר"/>
+  <StrRes Name="HTMLExtension" Text=".html"/>
+  <StrRes Name="SVGDescription" Text="קובץ SVG"/>
+  <StrRes Name="SVGFilter"      Text="קובץ SVG (*.svg)|*.svg"/>
+  <StrRes Name="SVGExtension"   Text=".svg"/>
+</Resources>

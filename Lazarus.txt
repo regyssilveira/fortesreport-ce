@@ -1,0 +1,52 @@
+*** Requirements ***
+
+Lazarus version:
+We guarantee the latest FastReport to work only on the latest version of Lazarus.
+*It may run on earlier versions, but we can't guarantee it.
+This means that when you update Lazarus, you must also update FastReport.
+Conversely, when you update FastReport, you must also update Lazarus.
+
+For Linux:
+Widget Library(Tools->Configure "Build Lazarus"->LCL widget Type):
+We develop and test "FastReport for Lazazarus" for GTK2 only.
+
+*** Preparation ***
+
+Linux:
+
+sudo apt-get install msttcorefonts
+sudo apt-get install sqlite3 libsqlite3-dev
+
+Windows:
+
+Download "Precompiled Binaries for Windows" of the required bit-type:
+https://www.sqlite.org/download.html
+From the downloaded archive copy the contents to C:Windows\System32 and C:Lazarus, then reboot Windows.
+
+*** Installing Packages ***
+
+Order in which FastReport packages are installed:
+
+1. FastScript\Source\fs_lazarus.lpk – library for executing scripts;
+
+2. Source\fr_lazarus.lpk – package with all necessary components;
+
+3. In any order:
+
+- Source\ExportPack\frxe_lazarus.lpk – package with exports;
+- Source\lazchart\frxchartlazarus.lpk – packge for charts;
+- Source\lazdbf\frxlazdbf.lpk – package for working with BDF databases;
+- Source\sqlite\frxlazsqlite.lpk – package for working with SqLite batabases;
+- Source\PDFView\frxPDFlazarus.lpk - package with TfrxPDFView(windows only).
+- Source\lazrich\frxrichlazarus.lpk - package with TfrxRichView(Based on(pay attention to the item "Internals", it is recommended only on Windows): https://wiki.freepascal.org/RichMemo)
+
+4. Source\ClientServer\frCS_lazarus.lpk – package with client-server components has been removed.
+You can read about its features in Linux: https://www.fast-report.com/en/blog/show/web-reports-lazarus-linux/
+
+*** Fix bugs ****
+
+Perhaps when working with frxchartlazarus you will encounter an error with the TAChart unit, to install it open the frxchartlazarus package, go down to the very bottom to the list of dependencies and recompile all its dependencies.
+
+*** Switch Language ***
+
+Run recompile.exe

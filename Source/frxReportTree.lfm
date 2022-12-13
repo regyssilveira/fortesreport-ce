@@ -1,0 +1,20 @@
+object frxReportTreeForm: TfrxReportTreeForm
+  Left = 185
+  Height = 323
+  Top = 24
+  Width = 179
+  BorderStyle = bsSizeToolWin
+  Caption = 'Report Tree'
+  ClientHeight = 323
+  ClientWidth = 179
+  Color = clBtnFace
+  DragKind = dkDock
+  DragMode = dmAutomatic
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  FormStyle = fsStayOnTop
+  OnCreate = FormCreate
+  OnShow = FormShow
+  LCLVersion = '1.8.0.6'
+end
