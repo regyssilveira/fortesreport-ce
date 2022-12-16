@@ -1,4 +1,0 @@
-Language Resources for FastReport 5 VCL
-Language: Slovak
-Translator: Ing. Viktor Halász  (Viktor Halász)
-E-mail: halasz.viktor@gmail.com
