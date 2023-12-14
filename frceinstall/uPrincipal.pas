@@ -348,7 +348,9 @@ begin
   begin
     // tentar ler o path configurado na ide do delphi, se não existir ler
     // a atual para complementar e fazer o override
-    PathsAtuais := Trim(EnvironmentVariables.Values['PATH']);
+    PathsAtuais := ConfigData.ReadString(cs, 'PATH', '$(PATH)');
+    if PathsAtuais = '$(PATH)' then
+      PathsAtuais := Trim(EnvironmentVariables.Values['PATH']);
     if PathsAtuais = '' then
       PathsAtuais := GetEnvironmentVariable('PATH');
 
@@ -533,7 +535,7 @@ begin
      if VersionNumberStr = 'd16' then
         Sender.Options.Add('-NSData.Win;Datasnap.Win;Web.Win;Soap.Win;Xml.Win;Bde;Vcl;Vcl.Imaging;Vcl.Touch;Vcl.Samples;Vcl.Shell;System;Xml;Data;Datasnap;Web;Soap;Winapi;System.Win');
 
-     if MatchText(VersionNumberStr, ['d17','d18','d19','d20','d21','d22','d23','d24','d25','d26','d27','d28']) then
+     if MatchText(VersionNumberStr, ['d17','d18','d19','d20','d21','d22','d23','d24','d25','d26','d27','d28','d29']) then
         Sender.Options.Add('-NSWinapi;System.Win;Data.Win;Datasnap.Win;Web.Win;Soap.Win;Xml.Win;Bde;System;Xml;Data;Datasnap;Web;Soap;Vcl;Vcl.Imaging;Vcl.Touch;Vcl.Samples;Vcl.Shell');
 
   end;
@@ -600,7 +602,9 @@ begin
     else if oFRCE.Installations[iFor].VersionNumberStr = 'd27' then
       edtDelphiVersion.Items.Add('Delphi 10.4 Sydney')
     else if oFRCE.Installations[iFor].VersionNumberStr = 'd28' then
-      edtDelphiVersion.Items.Add('Delphi 11 Alexandria');
+      edtDelphiVersion.Items.Add('Delphi 11 Alexandria')
+    else if oFRCE.Installations[iFor].VersionNumberStr = 'd29' then
+      edtDelphiVersion.Items.Add('Delphi 12');
 
     // -- Evento disparado antes de iniciar a execução do processo.
     oFRCE.Installations[iFor].DCC32.OnBeforeExecute := BeforeExecute;
